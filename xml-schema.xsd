@@ -1,0 +1,52 @@
+<xml version="1.0" encoding="UTF-8">
+    <xs:shema xmlns:xs="http://www.w3.org/2001/XMLShema">
+
+    <xs:element name="Book">  
+  <xs:complexType>  
+    <xs:sequence>
+         <xs:element name="Book_ID" type="xs:Integer"/>
+         <xs:element name="Book_Name" type="xs:string"/>
+         <xs:element name="Book_Author" type="xs:string"/>
+         <xs:element name="Book_Type" type="xs:string"/>
+         <xs:element name="Book_Page" type="xs:Integer"/>
+         <xs:element name="Book_Price" type="xs:Integer"/>
+         <xs:element name="Book_Publish_Date" type="xs:date"/>
+         <xs:element name="Book_Publisher" type="xs:string"/>
+         <xs:element name="Book_View" type="xs:img"/>
+         <xs:element name="Book_ISBN" type="xs:Integer"/>
+         <xs:element name="Book_Language" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+        
+    </xs:element>
+     <xs:element name="Author">  
+  <xs:complexType>  
+    <xs:sequence>
+      <xs:element name="Author_ID" type="xs:Integer"/>
+      <xs:element name="Author_Name" type="xs:string"/>
+      <xs:element name="Author_Gender" type="xs:string"/>
+      <xs:element name="Author_CV" type="xs:string"/> 
+      <xs:element name="Author_Birthday" type="xs:date"/> 
+      <xs:element name="Author_Book" type="xs:string"/> 
+      <xs:element name="Author_Nationality" type="xs:string"/> 
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+        
+     <xs:element name="Publisher">
+  <xs:complexType>  
+    <xs:sequence>
+      <xs:element name="Publisher_ID" type="xs:Integer"/>
+      <xs:element name="Publisher_Name" type="xs:string"/>
+      <xs:element name="Publisher_Conditions" type="xs:string"/>
+      <xs:element name="Publisher_Background" type="xs:string"/>
+      <xs:element name="Publisher_Books" type="xs:stringr"/>
+      <xs:element name="Publisher_Author" type="xs:sting"/>       
+      <xs:element name="Publisher_Adress" type="xs:string"/>
+      <xs:element name="Publisher_Price" type="xs:Integer"/> 
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+        
+  </xs:shema>
+</xml>
