@@ -1,0 +1,205 @@
+
+<xml version="1.0" encoding="UTF-8">
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+    
+<rdf:Description rdf:about="Sen On Yedi Yaşımsın">
+            <dc:title>Sen On Yedi Yaşımsın</dc:title>
+            <dc:author>Miraç Çağrı Aktaş </dc:author>
+            <dc:type>Essay</dc:type>
+            <dc:page>160</dc:page>
+            <dc:price>9,75</dc:price>
+            <dc:publishdate>17.03.2017</dc:publishdate>
+            <dc:publisher>Olimpos Yayınları</dc:publisher>
+            <dc:view> <img src="http://i.dr.com.tr/cache/600x600-0/originals/0001687586001-1.jpg"> </img> </dc:view>
+            <dc:ISBN>9786059609388</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+               </rdf:Description>  
+        
+       <rdf:Description rdf:about="Huzursuzluk">
+            <dc:title>Huzursuzluk</dc:title>
+            <dc:author>Zülfü Livaneli</dc:author>
+            <dc:type>Novel</dc:type>
+            <dc:page>160</dc:page>
+            <dc:price>11,40</dc:price>
+            <dc:publishdate>10.03.2017</dc:publishdate>
+            <dc:publisher>Doğan Kitap</dc:publisher>
+            <dc:bookview><img src="http://i.dr.com.tr/cache/600x600-0/originals/0001683026001-1.jpg"> </img> </dc:bookview>
+            <dc:ISBN>9786050939828</dc:ISBN>
+            <dc:booklanguage>Turkish</dc:booklanguage>
+       </rdf:Description>
+    
+      <rdf:Description rdf:about="Simru">
+            <dc:title>Simru</dc:title>
+            <dc:author>Kahraman Tazeoğlu</dc:author>
+            <dc:type>Novel</dc:type>
+            <dc:page>256</dc:page>
+            <dc:price>13,00</dc:price>
+            <dc:publishdate>12.03.2017</dc:publishdate>
+            <dc:publisher>Destek Yayınları</dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0001692109001-1.jpg"> </img> </dc:view>
+            <dc:ISBN>9786053112310</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+          </rdf:Description>
+        
+      <rdf:Description rdf:about="Fesleğen">
+             <dc:title>Fesleğen</dc:title>
+            <dc:author>Hikmet Anıl Öztekin</dc:author>
+            <dc:type>Islamic Mysticism</dc:type>
+            <dc:page>256</dc:page>
+            <dc:price>13,68</dc:price>
+            <dc:publishdate>19.03.2017</dc:publishdate>
+            <dc:publisher>Hayykitap</dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0001691734001-1.jpg"> </img></dc:view>
+            <dc:ISBN>9789752477018</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+      </rdf:Description>
+    
+   <rdf:Description rdf:about="Hayvanlardan Tanrılara - Sapiens">
+            <dc:title>Hayvanlardan Tanrılara - Sapiens</dc:title>
+            <dc:author>Yuval Noah Harari</dc:author>
+            <dc:type>World History</dc:type>
+            <dc:page>390</dc:page>
+            <dc:price>22,40</dc:price>
+            <dc:publishdate>29.02.2016</dc:publishdate>
+            <dc:publisher>Kolektif Kitap</dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0001691734001-1.jpg"> </img> </dc:view>
+            <dc:ISBN>9786055029357</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+        </rdf:Description>
+    
+       <rdf:Description rdf:about="Bülbülü Öldürmek">
+            <dc:title>Bülbülü Öldürmek</dc:title>
+            <dc:author>Harper Lee</dc:author>
+            <dc:type>Novel</dc:type>
+            <dc:page>355</dc:page>
+            <dc:price>16,72</dc:price>
+            <dc:publishdate>29.01.2014</dc:publishdate>
+            <dc:publisher>Sel Yayıncılık</dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000610771-1.jpg"> </img> </dc:view>
+            <dc:ISBN>789755706849</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+       </rdf:Description>
+        
+          <rdf:Description rdf:about="Abim Deniz">
+           <dc:title>Abim Deniz</dc:title>
+            <dc:author>Can Dündar</dc:author>
+            <dc:type>Narration</dc:type>
+            <dc:page>480</dc:page>
+            <dc:price>20,14</dc:price>
+            <dc:publishdate>29.04.2014</dc:publishdate>
+            <dc:publisher>Sel Yayıncılık</dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000620387-1.jpg"> </img> </dc:view>
+            <dc:ISBN>9789750724275</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+   </rdf:Description>
+        
+      <rdf:Description rdf:about="Müptezeller">
+            <dc:title>Müptezeller</dc:title>
+            <dc:author>Emrah Serbes</dc:author>
+            <dc:type>Novel</dc:type>
+            <dc:page>163</dc:page>
+            <dc:price>12,92</dc:price>
+          <dc:publishdate>17.04.2016</dc:publishdate>
+            <dc:publisher>İletişim Yayıncılık</dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000714873-1.jpg"> </img> </dc:view>
+            <dc:ISBN>9789750520976</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+        </rdf:Description>
+        
+         <rdf:Description rdf:about="Erken Kaybedenler">
+            <dc:title>Erken Kaybedenler</dc:title>
+            <dc:author>Emrah Serbes</dc:author>
+            <dc:type>Novel</dc:type>
+            <dc:page>143</dc:page>
+            <dc:price>12,54</dc:price>
+            <dc:publishdate>19.05.2009</dc:publishdate>
+            <dc:publisher>İletişim Yayıncılık</dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000301507-1.jpg"> </img> </dc:view>
+            <dc:ISBN> 9789750506765</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+      </rdf:Description>
+             
+               <rdf:Description rdf:about="Kürk Mantolu Madonna">
+            <dc:title>Kürk Mantolu Madonna</dc:title>
+            <dc:author>Sabahattin Ali</dc:author>
+            <dc:type>Novel</dc:type>
+            <dc:page>164</dc:page>
+            <dc:price>9,12</dc:price>
+            <dc:publishdate>04.05.2015</dc:publishdate>
+            <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000058245-1.jpg"> </img> </dc:view>
+            <dc:ISBN> 9789753638029</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+        </rdf:Description>
+        
+        
+        <rdf:Description rdf:about="Kanadı Kırık Kuşlar">
+            <dc:title>Kanadı Kırık Kuşlar</dc:title>
+            <dc:author>Ayşe Kulin</dc:author>
+            <dc:type>Novel</dc:type>
+            <dc:page>392</dc:page>
+            <dc:price>9,12</dc:price>
+            <dc:publishdate>10.07.2016</dc:publishdate>
+            <dc:publisher> Everest Yayınları</dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000719091-1.jpg"> </img> </dc:view>
+            <dc:ISBN>9786051850788</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+         </rdf:Description>
+        
+        
+        <rdf:Description rdf:about="Havva'nın Üç Kızı">
+            <dc:title>Havva'nın Üç Kızı</dc:title>
+            <dc:author>Elif Şafak</dc:author>
+            <dc:type>Novel</dc:type>
+            <dc:page>424</dc:page>
+            <dc:price>22,04</dc:price>
+            <dc:publishdate>20.08.2016</dc:publishdate>
+            <dc:publisher>Doğan Kitap </dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000698812-1.jpg"> </img> </dc:view>
+            <dc:ISBN> 9786050935370</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+        </rdf:Description>
+    
+        <rdf:Description rdf:about="Kardeşimin Hikayesi">
+            <dc:title>Kardeşimin Hikayesi</dc:title>
+            <dc:author>Zülfü Livaneli</dc:author>
+            <dc:type>Novel</dc:type>
+            <dc:page>330</dc:page>
+            <dc:price>17,48</dc:price>
+            <dc:publishdate>23.11.2013</dc:publishdate>
+            <dc:publisher>Doğan Kitap </dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000441667-1.jpg"> </img> </dc:view>
+            <dc:ISBN>  9786050914443</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+       </rdf:Description>
+        
+       
+      <rdf:Description rdf:about="Serenad">
+            <dc:title>Serenad</dc:title>
+            <dc:author>Zülfü Livaneli</dc:author>
+            <dc:type>Novel</dc:type>
+            <dc:page>484</dc:page>
+            <dc:price>34,20</dc:price>
+            <dc:publishdate>27.12.2011</dc:publishdate>
+            <dc:publisher>Doğan Kitap </dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000441667-1.jpg"> </img> </dc:view>
+            <dc:ISBN>9786050900293</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+               </rdf:Description>
+    
+         <rdf:Description rdf:about="Tutuklandık">
+            <dc:title>Tutuklandık</dc:title>
+            <dc:author>Can Dündar</dc:author>
+            <dc:type>Narration</dc:type>
+            <dc:page>320</dc:page>
+            <dc:price>19,00</dc:price>
+            <dc:publishdate>27.05.2016</dc:publishdate>
+            <dc:publisher>Can Yayınları </dc:publisher>
+            <dc:view><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000686415-1.jpg"> </img> </dc:view>
+            <dc:ISBN>9789750732140</dc:ISBN>
+            <dc:language>Turkish</dc:language>
+     </rdf:Description>
+   
+    </rdf:RDF>
