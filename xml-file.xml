@@ -1,0 +1,218 @@
+<xml version="1.0" encoding="UTF-8">
+<booktable>
+
+    <Book>
+        <Book>
+            <BookID>1</BookID>
+            <BookName>Sen On Yedi Yaşımsın</BookName>
+            <BookAuthor>Miraç Çağrı Aktaş</BookAuthor>
+            <BookType>Essay</BookType>
+            <BookPage>160</BookPage>
+            <BookPrice>9,75</BookPrice>
+            <BookPublishDate>17.03.2017</BookPublishDate>
+            <BookPublisher>Olimpos Yayınları</BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0001687586001-1.jpg"> </img> </BookView>
+            <BookISBN>9786059609388</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+         <Book>
+            <BookID>2</BookID>
+            <BookName>Huzursuzluk</BookName>
+            <BookAuthor>Zülfü Livaneli</BookAuthor>
+            <BookType>Novel</BookType>
+            <BookPage>160</BookPage>
+            <BookPrice>11,40</BookPrice>
+            <BookPublishDate>10.03.2017</BookPublishDate>
+            <BookPublisher>Doğan Kitap</BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0001683026001-1.jpg"> </img> </BookView>
+            <BookISBN>9786050939828</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+       <Book>
+            <BookID>3</BookID>
+            <BookName>Simru</BookName>
+            <BookAuthor>Kahraman Tazeoğlu</BookAuthor>
+            <BookType>Novel</BookType>
+            <BookPage>256</BookPage>
+            <BookPrice>13,00</BookPrice>
+            <BookPublishDate>12.03.2017</BookPublishDate>
+            <BookPublisher>Destek Yayınları</BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0001692109001-1.jpg"> </img> </BookView>
+            <BookISBN>9786053112310</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+        
+         <Book>
+            <BookID>4</BookID>
+            <BookName>Fesleğen</BookName>
+            <BookAuthor>Hikmet Anıl Öztekin</BookAuthor>
+            <BookType>Islamic Mysticism</BookType>
+            <BookPage>256</BookPage>
+            <BookPrice>13,68</BookPrice>
+            <BookPublishDate>19.03.2017</BookPublishDate>
+            <BookPublisher>Hayykitap</BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0001691734001-1.jpg"> </img> </BookView>
+            <BookISBN>9789752477018</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+        <Book>
+            <BookID>5</BookID>
+            <BookName>Hayvanlardan Tanrılara - Sapiens</BookName>
+            <BookAuthor>Yuval Noah Harari</BookAuthor>
+            <BookType>World History</BookType>
+            <BookPage>390</BookPage>
+            <BookPrice>22,40</BookPrice>
+            <BookPublishDate>29.02.2016</BookPublishDate>
+            <BookPublisher>Kolektif Kitap</BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0001691734001-1.jpg"> </img> </BookView>
+            <BookISBN>9786055029357</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+        <Book>
+            <BookID>6</BookID>
+            <BookName>Bülbülü Öldürmek</BookName>
+            <BookAuthor>Harper Lee</BookAuthor>
+            <BookType>Novel</BookType>
+            <BookPage>355</BookPage>
+            <BookPrice>16,72</BookPrice>
+            <BookPublishDate>29.01.2014</BookPublishDate>
+            <BookPublisher>Sel Yayıncılık</BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000610771-1.jpg"> </img> </BookView>
+            <BookISBN>789755706849</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+          <Book>
+            <BookID>7</BookID>
+            <BookName>Abim Deniz</BookName>
+            <BookAuthor>Can Dündar</BookAuthor>
+            <BookType>Narration</BookType>
+            <BookPage>480</BookPage>
+            <BookPrice>20,14</BookPrice>
+            <BookPublishDate>29.04.2014</BookPublishDate>
+            <BookPublisher>Sel Yayıncılık</BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000620387-1.jpg"> </img> </BookView>
+            <BookISBN>9789750724275</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+       <Book>
+            <BookID>8</BookID>
+            <BookName>Müptezeller</BookName>
+            <BookAuthor>Emrah Serbes</BookAuthor>
+            <BookType>Novel</BookType>
+            <BookPage>163</BookPage>
+            <BookPrice>12,92</BookPrice>
+            <BookPublishDate>17.04.2016</BookPublishDate>
+            <BookPublisher>İletişim Yayıncılık</BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000714873-1.jpg"> </img> </BookView>
+            <BookISBN>9789750520976</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+         <Book>
+            <BookID>9</BookID>
+            <BookName>Erken Kaybedenler</BookName>
+            <BookAuthor>Emrah Serbes</BookAuthor>
+            <BookType>Novel</BookType>
+            <BookPage>143</BookPage>
+            <BookPrice>12,54</BookPrice>
+            <BookPublishDate>19.05.2009</BookPublishDate>
+            <BookPublisher>İletişim Yayıncılık</BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000301507-1.jpg"> </img> </BookView>
+            <BookISBN> 9789750506765</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+           <Book>
+            <BookID>10</BookID>
+            <BookName>Kürk Mantolu Madonna</BookName>
+            <BookAuthor>Sabahattin Ali</BookAuthor>
+            <BookType>Novel</BookType>
+            <BookPage>164</BookPage>
+            <BookPrice>9,12</BookPrice>
+            <BookPublishDate>04.05.2015</BookPublishDate>
+            <BookPublisher>Yapı Kredi Yayınları</BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000058245-1.jpg"> </img> </BookView>
+            <BookISBN> 9789753638029</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+        
+        <Book>
+            <BookID>11</BookID>
+            <BookName>Kanadı Kırık Kuşlar</BookName>
+            <BookAuthor>Ayşe Kulin</BookAuthor>
+            <BookType>Novel</BookType>
+            <BookPage>392</BookPage>
+            <BookPrice>9,12</BookPrice>
+            <BookPublishDate>10.07.2016</BookPublishDate>
+            <BookPublisher> Everest Yayınları</BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000719091-1.jpg"> </img> </BookView>
+            <BookISBN>9786051850788</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+        
+        <Book>
+            <BookID>12</BookID>
+            <BookName>Havva'nın Üç Kızı</BookName>
+            <BookAuthor>Elif Şafak</BookAuthor>
+            <BookType>Novel</BookType>
+            <BookPage>424</BookPage>
+            <BookPrice>22,04</BookPrice>
+            <BookPublishDate>20.08.2016</BookPublishDate>
+            <BookPublisher>Doğan Kitap </BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000698812-1.jpg"> </img> </BookView>
+            <BookISBN> 9786050935370</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+        <Book>
+            <BookID>13</BookID>
+            <BookName>Kardeşimin Hikayesi</BookName>
+            <BookAuthor>Zülfü Livaneli</BookAuthor>
+            <BookType>Novel</BookType>
+            <BookPage>330</BookPage>
+            <BookPrice>17,48</BookPrice>
+            <BookPublishDate>23.11.2013</BookPublishDate>
+            <BookPublisher>Doğan Kitap </BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000441667-1.jpg"> </img> </BookView>
+            <BookISBN>  9786050914443</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+       
+        <Book>
+            <BookID>14</BookID>
+            <BookName>Serenad</BookName>
+            <BookAuthor>Zülfü Livaneli</BookAuthor>
+            <BookType>Novel</BookType>
+            <BookPage>484</BookPage>
+            <BookPrice>34,20</BookPrice>
+            <BookPublishDate>27.12.2011</BookPublishDate>
+            <BookPublisher>Doğan Kitap </BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000441667-1.jpg"> </img> </BookView>
+            <BookISBN>9786050900293</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book> 
+        
+          <Book>
+            <BookID>15</BookID>
+            <BookName>Tutuklandık</BookName>
+            <BookAuthor>Can Dündar</BookAuthor>
+            <BookType>Narration</BookType>
+            <BookPage>320</BookPage>
+            <BookPrice>19,00</BookPrice>
+            <BookPublishDate>27.05.2016</BookPublishDate>
+            <BookPublisher>Can Yayınları </BookPublisher>
+            <BookView><img src="http://i.dr.com.tr/cache/600x600-0/originals/0000000686415-1.jpg"> </img> </BookView>
+            <BookISBN>9789750732140</BookISBN>
+            <BookLanguage>Turkish</BookLanguage>
+        </Book>
+    </Book>
